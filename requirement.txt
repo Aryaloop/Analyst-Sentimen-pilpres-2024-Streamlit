@@ -5,4 +5,4 @@ scikit-learn
 deep-translator
 matplotlib
 seaborn
-altair
+joblib
